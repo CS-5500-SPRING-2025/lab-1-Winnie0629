@@ -38,6 +38,9 @@ More detailed submission instructions can be found via the [lab page](https://pa
 
 Include screenshots as described in the [Lab 1](L1.md) file.
 
+![](/images/gitSetUp.png)
+
+
 ## Task 2: GitHub Tutorial (24 marks)
 
 Include screenshots as described in the [Lab 1](L1.md) file.
