@@ -93,5 +93,6 @@ Used to exclude temporary files, build outputs, and sensitive data from version 
 Include answers as described in the [Lab 1](L1.md) file.
 
 ### Q1
+This video introduces the Software Development Life Cycle (SDLC), which consists of seven key phases: planning, requirements analysis, design, implementation/coding, testing, deployment, and maintenance. The process begins with the customer presenting a business idea to the product owner, followed by detailed planning and requirements analysis by the entire team, including developers, testers, and operations staff. During the implementation and testing phase, developers write code and testers create test cases and identify bugs to ensure that the application works properly before deployment. After deployment to production servers, the maintenance phase includes monitoring system performance, resolving user issues, and implementing new features through iterative SDLC cycles.
 
 ### Q2
