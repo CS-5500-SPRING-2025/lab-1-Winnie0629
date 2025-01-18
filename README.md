@@ -52,8 +52,12 @@ Include screenshots as described in the [Lab 1](L1.md) file.
 
 Include answers as described in the [Lab 1](L1.md) file:
 
-### Q1
+### Q1 
+         Git is a distributed version control system, and designed for programmer teamwork. Git is focused on code sharing and changes tracking. Git is a software.
+         
+         Github is a web-based Git repository hosting services. Github is focused on centralized source code hosting. Github has a built-in user management feature. GitHub is a service.
 
+         Source:https://www.geeksforgeeks.org/difference-between-git-and-github/
 ### Q2
 
 ### Q3
