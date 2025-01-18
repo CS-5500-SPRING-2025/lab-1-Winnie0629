@@ -65,12 +65,11 @@ Include answers as described in the [Lab 1](L1.md) file:
          source:https://www.geeksforgeeks.org/centralized-vs-distributed-version-control-which-one-should-we-choose/
 
 ### Q3
-         1. Modified Stage: 
-         When developers want to improve a project, they create a local copy (remote repository) on their computer. This lets them modify code without affecting the original project - like having your own workspace to experiment safely.
-         2. Staged Stage:
-After making changes, we use 'git add' to move files to a preparation area (staging area). Think of it like a checkpoint before finalizing changes. It's similar to runners in a race at the "Set" position - everything is ready but waiting for the final signal.
-         3. Commit Stage:
-This is the "Go" moment where changes become permanent. When you commit, you're saving your modifications to your local repository with a timestamp and your details. Each commit is like a snapshot of your project at that specific moment, documenting who made what changes and when.
+1. Modified Stage: When developers want to improve a project, they create a local copy (remote repository) on their computer. This lets them modify code without affecting the original project - like having your own workspace to experiment safely.
+   
+2. Staged Stage: After making changes, we use 'git add' to move files to a preparation area (staging area). Think of it like a checkpoint before finalizing changes. It's similar to runners in a race at the "Set" position - everything is ready but waiting for the final signal.
+   
+3. Commit Stage: This is the "Go" moment where changes become permanent. When you commit, you're saving your modifications to your local repository with a timestamp and your details. Each commit is like a snapshot of your project at that specific moment, documenting who made what changes and when.
 
 ### Q4
 
