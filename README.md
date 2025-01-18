@@ -53,16 +53,17 @@ Include screenshots as described in the [Lab 1](L1.md) file.
 Include answers as described in the [Lab 1](L1.md) file:
 
 ### Q1 
-         Git is a distributed version control system, and designed for programmer teamwork. Git is focused on code sharing and changes tracking. Git is a software.
+Git is a distributed version control system, and designed for programmer teamwork. Git is focused on code sharing and changes tracking. Git is a software.
          
-         Github is a web-based Git repository hosting services. Github is focused on centralized source code hosting. Github has a built-in user management feature. GitHub is a service.
+Github is a web-based Git repository hosting services. Github is focused on centralized source code hosting. Github has a built-in user management feature. GitHub is a service.
 
-         Source:https://www.geeksforgeeks.org/difference-between-git-and-github/
+Source:https://www.geeksforgeeks.org/difference-between-git-and-github/
 ### Q2
-         1. Every single developer or client has their own server and they will have a copy of the entire history or version of the code and all of its branches in their local server or machine. Therefore, every client or user can work locally and disconnnected. 
-         2. When client or user need to use the code, they can clone the entire history or copy of the code without relying on the central server. After they make their changes, they can push their change sets to the master repository or pull new change.
+1. Every single developer or client has their own server and they will have a copy of the entire history or version of the code and all of its branches in their local server or machine. Therefore, every client or user can work locally and disconnnected. 
 
-         source:https://www.geeksforgeeks.org/centralized-vs-distributed-version-control-which-one-should-we-choose/
+2. When client or user need to use the code, they can clone the entire history or copy of the code without relying on the central server. After they make their changes, they can push their change sets to the master repository or pull new change.
+
+source:https://www.geeksforgeeks.org/centralized-vs-distributed-version-control-which-one-should-we-choose/
 
 ### Q3
 1. Modified Stage: When developers want to improve a project, they create a local copy (remote repository) on their computer. This lets them modify code without affecting the original project - like having your own workspace to experiment safely.
@@ -74,18 +75,19 @@ Include answers as described in the [Lab 1](L1.md) file:
 ### Q4
 
 #### Q4 (i)
-         Downloads a complete copy of a remote repository to your local machine
+Downloads a complete copy of a remote repository to your local machine
 #### Q4 (ii)
-         Shows which files are modified, staged, or untracked in your working directory
+Shows which files are modified, staged, or untracked in your working directory
 #### Q4 (iii)
-         Downloads updates from remote repository without merging them into your working files
+Downloads updates from remote repository without merging them into your working files
 #### Q4 (iv)
-         Creates a new Git repository by initializing the .git directory
+Creates a new Git repository by initializing the .git directory
 #### Q4 (v)
-         Shows commit history with details like messages, authors, and timestamps
+Shows commit history with details like messages, authors, and timestamps
 ### Q5
-         A gitignore file specifies intentionally untracked files that Git should ignore. 
-         Used to exclude temporary files, build outputs, and sensitive data from version control.
+A gitignore file specifies intentionally untracked files that Git should ignore. 
+
+Used to exclude temporary files, build outputs, and sensitive data from version control.
 ## Task 4: Video Questions (4 marks)
 
 Include answers as described in the [Lab 1](L1.md) file.
