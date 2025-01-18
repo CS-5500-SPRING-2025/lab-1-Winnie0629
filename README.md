@@ -59,6 +59,10 @@ Include answers as described in the [Lab 1](L1.md) file:
 
          Source:https://www.geeksforgeeks.org/difference-between-git-and-github/
 ### Q2
+         1. Every single developer or client has their own server and they will have a copy of the entire history or version of the code and all of its branches in their local server or machine. Therefore, every client or user can work locally and disconnnected. 
+         2. When client or user need to use the code, they can clone the entire history or copy of the code without relying on the central server. After they make their changes, they can push their change sets to the master repository or pull new change.
+
+         source:https://www.geeksforgeeks.org/centralized-vs-distributed-version-control-which-one-should-we-choose/
 
 ### Q3
 
