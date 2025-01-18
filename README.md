@@ -42,6 +42,8 @@ Include screenshots as described in the [Lab 1](L1.md) file.
 
 Include screenshots as described in the [Lab 1](L1.md) file.
 ![](/images/git1.png)
+![](/images/git2.png)
+
 
 ## Task 3: Lab Questions (11 marks)
 
